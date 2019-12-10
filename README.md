@@ -2,11 +2,11 @@
 
 ![Powered by Jupyter Logo](https://cdn.oreillystatic.com/images/icons/powered_by_jupyter.png)
 
-This project contains the Jupyter Notebooks and the associated Dockerfile for Data Incubator's _Essentail Math for Data Science_ series
-1. _Linear Algebra with Python_
-2. _Linear Regression with Python_
-3. _Probability with Python_
-4. _Statistics and Hypothesis Testing with Python_
+This project contains the Jupyter Notebooks and the associated Dockerfile for Data Incubator's _Essential Math for Data Science_ series
+1. Linear Algebra with Python
+2. Linear Regression with Python
+3. Probability with Python
+4. Statistics and Hypothesis Testing with Python
 
 It contains both the exercises (/notebooks), possibly the solutions (/solutions), as well as any data or files needed (/data).
 
